@@ -1,0 +1,16 @@
+#gridContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  border: 1px solid red;
+}
+
+.gridStyle {
+  width: 48px;
+  height: 48px;
+  border: 1px solid black;
+}
+
+.gridStyleHover {
+  background-color: blue;
+}
